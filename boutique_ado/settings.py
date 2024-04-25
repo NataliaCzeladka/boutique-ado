@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-nataliaczel-boutiqueado-o6maeuy83un.ws-eu110.gitpod.io']
 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
 
 # Application definition
 
