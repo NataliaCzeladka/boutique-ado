@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-mmm-(!^tr8$oj#vhmyu8r!y1+bn9_iur%%+ol-yee8hvnh69$z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-nataliaczel-boutiqueado-bq4hbcy3rwo.ws-eu110.gitpod.io']
+ALLOWED_HOSTS = ['8000-nataliaczel-boutiqueado-bq4hbcy3rwo.ws-eu112.gitpod.io']
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
