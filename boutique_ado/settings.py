@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['8000-nataliaczel-boutiqueado-bq4hbcy3rwo.ws-eu111.gitpod.io', 'localhost']
+ALLOWED_HOSTS = ['8000-nataliaczel-boutiqueado-bq4hbcy3rwo.ws-eu111.gitpod.io', 'boutique-ado-newapp-4665b3398f35.herokuapp.com', 'localhost']
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
